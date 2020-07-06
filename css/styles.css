@@ -38,15 +38,15 @@ html{
 .fa-github{
     color: rgb(48, 48, 48);
 }
-video{
+iframe{
     width :300px;
     height :300px;
 }
 
 @media screen and (min-width:500px){
     
-    video{
-        width: auto;
+    iframe{
+        width: 700px;
         height: 300px;
     }
 
